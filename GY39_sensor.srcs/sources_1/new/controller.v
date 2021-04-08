@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module controller#(parameter    word_size   =   112)(
+module controller#(parameter    word_size   =   8)(
 output                  Serial_out,
 input   [word_size-1:0] Data_Bus,
 input                   Load_XMT_datareg,

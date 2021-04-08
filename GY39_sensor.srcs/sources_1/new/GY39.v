@@ -25,15 +25,15 @@ module GY39#(parameter  word_size   =   8,half_word =   word_size/2)(
   input                  Serial_in,
   input                  read_not_ready_in,
   input                  rst_b,
-  input  wire  [7:0]  GY_input,    //a series of data
+ // input  wire  [7:0]  GY_input,    //a series of data
   
-  output        [word_size-1:0] RCV_datareg,
- // output        [word_size-1:0] check,
+  output          [word_size-1:0] RCV_datareg,
+  output    wire [word_size-1:0] check,
   output                        read_not_ready_out,
   output                        Error1,
   output                        Error2
   );
-  
+  assign  check =    RCV_datareg;
   Control_Unit M0(
   read_not_ready_out,
   Error1,
