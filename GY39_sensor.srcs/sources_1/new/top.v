@@ -41,7 +41,7 @@ output serial_out
     GY39    M1(.Sample_clk(clk),.Serial_in(serial_in),.read_not_ready_in(read_not_ready_in),.rst_b(rst),.check(check),.RCV_datareg(serial_connect_databus),.read_not_ready_out( read_not_ready_out),.Error1(Error1),.Error2( Error2));
     controller  M2(.Data_Bus(serial_connect_databus),.Serial_out(serial_out),.Load_XMT_datareg(Load_XMT_datareg),.Byte_ready(Byte_ready),.T_byte(T_byte),.Clock(clk),.rst_b(rst));
     check   M3(.serial_in(check),.clk(clk),.data_type(data_type));
-    sequential_out  M4(.Serial_in(serial_in),.serial_out(serial_connect_databus),.ref_clk(clk));
+    sequential_out  M4(.Serial_in(serial_in),.Serial_out(serial_connect_databus),.ref_clk(clk));
     
     
 endmodule

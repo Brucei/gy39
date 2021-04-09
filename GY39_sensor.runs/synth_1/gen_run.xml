@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7k325tffg900-2" LaunchTime="1617881891">
-  <File Type="RDS-DCP" Name="top.dcp"/>
   <File Type="PA-TCL" Name="top.tcl"/>
   <File Type="REPORTS-TCL" Name="top_reports.tcl"/>
   <File Type="RDS-RDS" Name="top.vds"/>
+  <File Type="RDS-DCP" Name="top.dcp"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/Control_Unit.v">

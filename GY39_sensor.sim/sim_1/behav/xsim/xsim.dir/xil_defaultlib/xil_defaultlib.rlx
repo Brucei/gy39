@@ -3,13 +3,13 @@
 Nov 18 2020
 09:20:35
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
-/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sim_1/new/test.v,1617928378,verilog,,,,test,,,,,,,,
+/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sim_1/new/test.v,1617931992,verilog,,,,test,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Control_Unit.v,1617929797,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Control_Unit_0.v,,Control_Unit,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Control_Unit_0.v,1617189232,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit.v,,Control_Unit_0,,,,,,,,
-/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit.v,1616721553,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit_0.v,,Datapath_Unit,,,,,,,,
+/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit.v,1617929826,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit_0.v,,Datapath_Unit,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit_0.v,1617849650,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v,,Datapath_Unit_0,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v,1617926036,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v,,GY39,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/check.v,1617928534,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sim_1/new/test.v,,check,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v,1617926036,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/sequential_out.v,,controller,,,,,,,,
 /home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/sequential_out.v,1617860065,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/top.v,,sequential_out,,,,,,,,
-/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/top.v,1617927884,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/check.v,,top,,,,,,,,
+/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/top.v,1617931864,verilog,,/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/check.v,,top,,,,,,,,
