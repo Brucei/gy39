@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-  module Control_Unit#(parameter    word_size   =   112,
+  module Control_Unit#(parameter    word_size   =   8,
   half_word =   word_size/2,Num_state_bits  =   2,
   idle  =   2'b00,starting  =   2'b01,  receiving   =   2'b10)
   (output reg   read_not_ready_out,

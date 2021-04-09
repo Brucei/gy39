@@ -1,0 +1,12 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: /home/jack/Desktop/Vivado/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 328840e64a3a4eeb873f7778f755755a --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot GY39_behav xil_defaultlib.GY39 xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+ERROR: [XSIM 43-3388] /usr/bin/gcc not found, please install GCC for your Linux distribution.
+ERROR: [XSIM 43-3915] Encountered a fatal error. Cannot continue. Exiting... 

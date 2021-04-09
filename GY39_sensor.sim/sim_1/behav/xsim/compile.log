@@ -1,0 +1,41 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Control_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Control_Unit_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath_Unit
+INFO: [VRFC 10-2458] undeclared symbol BC_eq8, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit.v:56]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/Datapath_Unit_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Datapath_Unit_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GY39
+INFO: [VRFC 10-2458] undeclared symbol clr_Sample_counter, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:41]
+INFO: [VRFC 10-2458] undeclared symbol inc_Sample_counter, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:42]
+INFO: [VRFC 10-2458] undeclared symbol clr_Bit_counter, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:43]
+INFO: [VRFC 10-2458] undeclared symbol inc_Bit_counter, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:44]
+INFO: [VRFC 10-2458] undeclared symbol shift, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:45]
+INFO: [VRFC 10-2458] undeclared symbol load, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:46]
+INFO: [VRFC 10-2458] undeclared symbol Ser_in_A5, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:48]
+INFO: [VRFC 10-2458] undeclared symbol Ser_in_AA, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:49]
+INFO: [VRFC 10-2458] undeclared symbol SC_eq_3, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:50]
+INFO: [VRFC 10-2458] undeclared symbol SC_lt_7, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:51]
+INFO: [VRFC 10-2458] undeclared symbol BC_eq_8, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/GY39.v:52]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-2458] undeclared symbol Load_XMT_DR, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol Load_XMT_shiftreg, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol start, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol shift, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol clear, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol BC_LT_BCmax, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:46]
+INFO: [VRFC 10-2458] undeclared symbol BC_lt_BCmax, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:49]
+INFO: [VRFC 10-2458] undeclared symbol Load_XMT_shftreg, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/controller.v:49]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/sequential_out.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequential_out
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2458] undeclared symbol data_type, assumed default net type wire [/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/top.v:43]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sources_1/new/check.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module check
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jack/Desktop/GY39_SENSOR/GY39_sensor.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test

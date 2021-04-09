@@ -79,9 +79,6 @@ output reg  [7:0]   data_type
     end
         else if (command      ==  8'h52)begin
         data_type   =   8'h45;
-        
-        
-        
         end
     end
     end

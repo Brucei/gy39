@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Datapath_Unit#(parameter    word_size   =   112,
+module Datapath_Unit#(parameter    word_size   =   8,
   half_word =   word_size/2,Num_counter_bits  =   4)(
 output  reg [word_size-1:0] RCV_datareg,
 output                       Ser_in_A5,
